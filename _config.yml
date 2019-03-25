@@ -7,6 +7,13 @@ description: > # this means to ignore newlines until "show_exerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+# Defining which pages in Navigation Bar
+header_pages: 
+    - about.md
+    - geography-gis.md
+    - marketing.md
+    - aviation.md
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
