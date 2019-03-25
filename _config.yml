@@ -2,9 +2,8 @@ title: Hi, I'm Lorenz!
 author: Lorenz Menendez
 email: lmenendez@uchicago.edu
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a student at the University of Chicago, double-majoring in Economics and Geography. 
+  I enjoy leveraging large spatial datasets to deliver meaningful geographic and economic insights for personal, academic and professional projects. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
