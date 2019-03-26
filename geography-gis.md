@@ -17,13 +17,13 @@ Below is a brief introduction to the exciting personal and academic projects I'm
 ## [City Scaling in France](../)
 My goal for this project was to model cities using a PostGIS database. Using a [methodology](https://www.pnas.org/content/pnas/104/17/7301.full.pdf) developed by urban theorist [Luís Bettencourt](https://www.santafe.edu/people/profile/luis-bettencourt), I showed that all cities in France scale similarly to other cities around the world.
 
-Specifically, I studied the evolution of multiple urban indicators as a function of city population to mathematically model scaling. These urban indicators proxied *economic development*, *infrastructure efficiency*, and *wealth creation*. GIS technologies proved indispensable to completing this project. 
+Specifically, I studied the evolution of multiple urban indicators as a function of city population to mathematically model scaling. These urban indicators proxied *economic development*, *infrastructure efficiency*, and *wealth creation*. GIS technologies proved indispensable in completing this project. 
 
-This project was very data-wrangling intensive due to its general nature. I had to compile spatial and non-spatial attribute data from multiple governmental sources and join and aggregate themn together using ETL workflows and SQL queries to get "nice" datasets for each urban indicator. Only then could I visualize the data.
+This project was very data-wrangling intensive due to its general nature. I had to compile spatial and non-spatial attribute data from multiple governmental sources and join and aggregate them together using ETL workflows and SQL queries to get "nice" datasets for each urban indicator. Only then could I visualize the data.
 
-Using the *tmap* package in R, I created interactive cloropleth maps, allowing users to visually compare the development of French cities. Below is an interactive map comparing the actual number of academics in each city with the anticipated number based on its population.
+Using the *tmap* package in R, I created interactive choropleth maps, allowing users to visually compare the development of French cities. Below is an interactive map comparing the actual number of academics in each city with the anticipated number based on its population. Click for full interactivity!
 
-<iframe src="../assets/maps/IntellectualsMap.html" style="height:350px;width:750px"></iframe>
+[![Click for Fullscreen Interactive Map](../assets/maps/intellectuals.png)](../assets/maps/IntellectualsMap.html)
 
 Learn more about the specifics of this project and its full findings [here](../). 
 
@@ -31,17 +31,17 @@ Learn more about the specifics of this project and its full findings [here](../)
 ## [A New Valuation of Transit in Phoenix](../)
 This project blends my geographic and economic intuition together to create a new way to value public transit. I developed a GIS methodology to place a dollar value on accessibility for future [Phoenix Valley Metro](https://en.wikipedia.org/wiki/Valley_Metro) light rail line extensions.
 
-First, I estimated the marginal cost of making light rail accessible to each resident by performing a buffer analysis in QGIS. My analysis estimated that it cost on avergae $6,820 (2018 dollars) to make light rail accessible to one resident along the light rail segments built since 2012. Then, I used this insight to predict a fair value for each of the propsoed future light rail extensions. 
+First, I estimated the marginal cost of making light rail accessible to each resident by performing a buffer analysis in QGIS. My analysis estimated that it cost on average $6,820 (2018 dollars) to make light rail accessible to one resident along the light rail segments built since 2012. Then, I used this insight to predict a fair value for each of the proposed future light rail extensions. 
 
 {% include image.html url="/assets/maps/PHX_buffer.png" description="A map showing my buffer analysis in QGIS" %}
 
-After calculating a fair value for each exntension, I researched their actual estimated construction costs and compared the two values. What I found was that 2/4 extension projects were projected to cost a lot more than the accessibility value I calculated. But, the cost of the other 2 extension projects were in line with its accessibility value. 
+After calculating a fair value for each extension, I researched their actual estimated construction costs and compared the two values. What I found was that 2/4 extension projects were projected to cost a lot more than the accessibility value I calculated. But, the cost of the other 2 extension projects was in line with its accessibility value. 
 
 These results had some interesting ramifications, which can be found on this project's detailed explanation [here](../). 
 
 ## Future Projects
 Down the line, I'm looking to work on some of these GIS-related projects.
-* **Malaria Data Vis**: Continuing work from a 	[hackathon](https://vuehackathon.rcc.uchicago.edu/) with other UChicago students.
+* **Malaria Data Vis**: Continuing work from a     [hackathon](https://vuehackathon.rcc.uchicago.edu/) with other UChicago students.
 * **Weather Servant**: An application that serves weather updates to pilots for safer flights.
 * **X-Country Destination Finder**: A simple project to help pilots easily find "Cross Country"
  airports within 50NM of their home airport.
