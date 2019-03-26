@@ -18,11 +18,11 @@ A small collection of photos I've taken over my 3+ years of flying.
 
 <br>
 
-{% include image.html url="/assets/av_media/apple.jpg" description="New Apple campus in Silicon Valley, 2018" %}
+{% include image.html url="/assets/av_media/apple.JPG" description="New Apple campus in Silicon Valley, 2018" %}
 
 <br>
 
-{% include image.html url="/assets/av_media/columbia.jpg" description="Lunch in Columbia, CA, an old gold mining town, 2017" %}
+{% include image.html url="/assets/av_media/columbia.JPG" description="Lunch in Columbia, CA, an old gold mining town, 2017" %}
 
 <br>
 
