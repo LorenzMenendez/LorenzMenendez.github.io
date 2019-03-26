@@ -4,7 +4,7 @@ title: Media Gallery
 permalink: /aviation/media-gallery
 ---
 
-A small collection of photos I've taken over my 3+ years of flying
+A small collection of photos I've taken over my 3+ years of flying.
 
 ***
 
