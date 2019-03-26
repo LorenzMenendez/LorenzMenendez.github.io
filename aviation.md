@@ -4,7 +4,7 @@ title: Aviation
 permalink: /aviation/
 ---
 
-{% include image.html url="/assets/c172.jpg" description="During a pit stop in Waukegan, IL (UGN)" %}
+{% include image.html url="/assets/c172.jpg" description="Flying friends and family in the Bay Area" %}
 
 ***  
 <br>
@@ -27,8 +27,11 @@ Learning to fly is a skill that is easy for anyone to acquire, but it takes prac
 One of the most fun parts of flight training is learning to push your airplane to its limits, get into a tricky situation, then recovering. I had a lot of fun intentionally stalling my two-seat Cessna 152, falling out of the sky for a brief moment, then recovering right back into straight-and-level flight, and it made me a safer pilot!
 
 ## My Current Flying Habits
+
+{% include image.html url="/assets/waukegan.jpg" description="On the ground in Waukegan, IL" %}
+
 During the academic year, I try to fly every other week to keep my skills current while exploring the skies over Chicago. To this end, I recently joined a [small flying club](https://www.facebook.com/RPMflyingclub/) where I hope to fly with other pilots on a more regular basis.
 
 I enjoy flying with other pilots because I get to learn more about others' techniques and habits that could make me a safer pilot. Additionally, having another pilot in the cockpit means I can share some workload with them if we enter busy airspace or if there is ever an emergency situation. 
 
-You can always keep up with my latest flying adventures, and track my progress towards my long-term aviation goals at my [blog](../). I also keep a [media gallery]() of unique photos I've taken while flying.
+You can always keep up with my latest flying adventures, and track my progress towards my long-term aviation goals at my [blog](../). I also keep a [media gallery](../aviation/media-gallery) of unique photos I've taken while flying.
