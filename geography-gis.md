@@ -14,7 +14,7 @@ Along the way, I also learned high leverage database querying skills with **SQL*
 
 Below is a brief introduction to the exciting personal and academic projects I'm working on.
 
-## [City Scaling in France](../)
+## [City Scaling in France](../construction)
 My goal for this project was to model cities using a PostGIS database. Using a [methodology](https://www.pnas.org/content/pnas/104/17/7301.full.pdf) developed by urban theorist [Luís Bettencourt](https://www.santafe.edu/people/profile/luis-bettencourt), I showed that all cities in France scale similarly to other cities around the world.
 
 Specifically, I studied the evolution of multiple urban indicators as a function of city population to mathematically model scaling. These urban indicators proxied *economic development*, *infrastructure efficiency*, and *wealth creation*. GIS technologies proved indispensable in completing this project. 
@@ -25,10 +25,10 @@ Using the *tmap* package in R, I created interactive choropleth maps, allowing u
 
 [![Click for Fullscreen Interactive Map](../assets/maps/intellectuals.png)](../assets/maps/IntellectualsMap.html)
 
-Learn more about the specifics of this project and its full findings [here](../). 
+Learn more about the specifics of this project and its full findings [here](../construction). 
 
 
-## [A New Valuation of Transit in Phoenix](../)
+## [A New Valuation of Transit in Phoenix](../construction)
 This project blends my geographic and economic intuition together to create a new way to value public transit. I developed a GIS methodology to place a dollar value on accessibility for future [Phoenix Valley Metro](https://en.wikipedia.org/wiki/Valley_Metro) light rail line extensions.
 
 First, I estimated the marginal cost of making light rail accessible to each resident by performing a buffer analysis in QGIS. My analysis estimated that it cost on average $6,820 (2018 dollars) to make light rail accessible to one resident along the light rail segments built since 2012. Then, I used this insight to predict a fair value for each of the proposed future light rail extensions. 
@@ -37,7 +37,7 @@ First, I estimated the marginal cost of making light rail accessible to each res
 
 After calculating a fair value for each extension, I researched their actual estimated construction costs and compared the two values. What I found was that 2/4 extension projects were projected to cost a lot more than the accessibility value I calculated. But, the cost of the other 2 extension projects was in line with its accessibility value. 
 
-These results had some interesting ramifications, which can be found on this project's detailed explanation [here](../). 
+These results had some interesting ramifications, which can be found on this project's detailed explanation [here](../construction). 
 
 ## Future Projects
 Down the line, I'm looking to work on some of these GIS-related projects.

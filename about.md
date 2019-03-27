@@ -17,7 +17,7 @@ Since moving to Chicago in 2017, I've followed my passion for Geography by pursu
 ### My Passions outside of the Classroom
 I'm a pilot and member of a small flying club out of Lansing, IL. We operate a well-equipped four-seat Cessna 172P used for both pleasure flights and primary training. I usually fly about once every two weeks. 
 
-One of my favorite flight routes is along the Chicago shoreline, where the view of the skyscrapers downtown is beautiful! I also enjoy flying in the beautiful Bay Area when I am visiting my hometown. See some cool videos [here](../flying).
+One of my favorite flight routes is along the Chicago shoreline, where the view of the skyscrapers downtown is beautiful! I also enjoy flying in the beautiful Bay Area when I am visiting my hometown. See some cool videos [here](../construction).
 
 I also love to travel both in my local Chicago area and around the world. Having recently moved to Chicago, I often explore different parts of the city on weekends by myself and with friends. During longer vacations, I travel to all corners of the world.
 
