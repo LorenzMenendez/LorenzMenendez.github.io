@@ -29,5 +29,5 @@
 - [ ] Switch Languages
 - [ ] Download Résumé 
 - [ ] Improved Navigation and collapsible headings, especially on GIS page
-- [ ] Create timeline of major professional and personal events using [CSS](https://www.w3schools.com/howto/howto_css_timeline.asp)
-
+- [ ] Create timeline of flying events using [CSS](https://www.w3schools.com/howto/howto_css_timeline.asp)
+- [ ] Create [Collapsibles](https://www.w3schools.com/howto/howto_js_collapsible.asp) where useful

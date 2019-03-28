@@ -34,7 +34,8 @@ App Academy taught me everything I know today about content marketing and bloggi
 
 
 #### A Sample of my video content
-<iframe width="750" height="394" src="https://www.youtube.com/embed/j0kQWCNU6s4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" class="center" src="https://www.youtube.com/embed/j0kQWCNU6s4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
