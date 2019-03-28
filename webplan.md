@@ -1,8 +1,5 @@
 # Website Layout 
 
-## The Conversion
-* Goal is to get people to inquire and follow on LinkedIn 
-
 ## Ribbons and Pages
 1. Geography/GIS
 	* Skills
@@ -27,10 +24,10 @@
 	* Have an online submission form
 
 ## Future Functionality
-[ ] Verify all links and create a placeholder "work in progress" page
-[ ] Embedded Calendly
-[ ] Switch Languages
-[ ] Download Résumé 
-[ ] Improved Navigation and collapsible headings, especially on GIS page
-[ ] Create timeline of major professional and personal events using [CSS](https://www.w3schools.com/howto/howto_css_timeline.asp)
+- [ ] Verify all links and create a placeholder "work in progress" page
+- [ ] Embedded Calendly
+- [ ] Switch Languages
+- [ ] Download Résumé 
+- [ ] Improved Navigation and collapsible headings, especially on GIS page
+- [ ] Create timeline of major professional and personal events using [CSS](https://www.w3schools.com/howto/howto_css_timeline.asp)
 
