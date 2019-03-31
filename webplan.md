@@ -28,6 +28,6 @@
 - [ ] Embedded Calendly
 - [ ] Switch Languages
 - [ ] Download Résumé 
-- [ ] Improved Navigation and collapsible headings, especially on GIS page
+- [ ] Improved Navigation by creating more interlinkage, CSS to highlight nav bar headers when you're on that page...
 - [ ] Create timeline of flying events using [CSS](https://www.w3schools.com/howto/howto_css_timeline.asp)
 - [ ] Create [Collapsibles](https://www.w3schools.com/howto/howto_js_collapsible.asp) where useful

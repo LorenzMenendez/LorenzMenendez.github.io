@@ -11,3 +11,24 @@
   margin-right: auto;
   width: 50%;
 }
+
+/* Creating Homepage Button*/
+.button {
+  background-color: black; 
+  border: 2px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+}
+

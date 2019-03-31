@@ -6,8 +6,6 @@ permalink: /aviation/
 
 {% include image.html url="/assets/c172.jpg" description="Flying friends and family in the Bay Area" %}
 
-***  
-<br>
 
 **On the weekends, I pilot single-engine Cessnas and explore from the air.** From my home airport of Lansing (IGQ), I often fly locally in the Chicagoland area to explore unfamiliar towns and practice my flying skills. When not flying, I meet up with other pilots and do other flying related activities, such as behind-the-scenes tours of major airports and businesses in the aviation industry. 
 
