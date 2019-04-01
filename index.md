@@ -17,7 +17,7 @@ list_title: Blog
   	width: 200px;"
   	src="/assets/lorenz.jpeg">
 # Dear Reader, 
-**Welcome to my personal website and blog!** I'm Lorenz, a sophomore at the University of Chicago studying Economics and Geography. I take pride in leveraging large spatial datasets to deliver meaningful geographic and economic insights for personal, academic and professional projects. I'm also experienced in Marketing and I have  
+**Welcome to my personal website and blog!** I'm Lorenz, a sophomore at the University of Chicago studying Economics and Geography. I take pride in leveraging large spatial datasets to deliver meaningful geographic and economic insights for personal, academic and professional projects. I'm also a novice marketer and a private pilot!
 
 
 <button onclick="window.location.href='/geo-gis'" class = "button">Learn More</button>
