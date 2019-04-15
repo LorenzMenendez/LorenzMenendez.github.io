@@ -25,7 +25,7 @@
 
 ## Future Functionality
 - [ ] Verify all links and create a placeholder "work in progress" page
-- [ ] Embedded Calendly
+- [x] Embedded Calendly
 - [ ] Switch Languages
 - [ ] Download Résumé 
 - [ ] Improved Navigation by creating more interlinkage, CSS to highlight nav bar headers when you're on that page...
